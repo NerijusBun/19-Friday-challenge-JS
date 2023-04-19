@@ -1,0 +1,23 @@
+{
+  "name": "19-friday-challenge-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "uzduotis-7": "nodemon ./js/uzduotis-7.js",
+    "uzduotis-6": "nodemon ./js/uzduotis-6.js",
+    "uzduotis-5": "nodemon ./js/uzduotis-5.js",
+    "uzduotis-4": "nodemon ./js/uzduotis-4.js",
+    "uzduotis-3": "nodemon ./js/uzduotis-3.js",
+    "uzduotis-2": "nodemon ./js/uzduotis-2.js",
+    "uzduotis-1": "nodemon ./js/uzduotis-1.js",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nerijus",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
